@@ -16,4 +16,4 @@ Contents
    :hidden:
    :glob:
 
-   *
+   /*
