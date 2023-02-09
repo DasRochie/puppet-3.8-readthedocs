@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
-===================================
+Puppet 3.8 Docs
+====================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Welcome
+=======
 
-.. note::
-
-   This project is under active development.
+Work in progress
 
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 5
+   :caption: Table of Contents
+   :hidden:
+   :glob:
 
-   usage
-   api
+   *
